@@ -7,7 +7,7 @@
 7) Set up Relay-Server - DONE
 8) Install CDEngine SDK in dev enviornment - DONE
 9) Create a sample plugin - DONE
-10) Review Onboarding documentaion and suggest additions
+10) Review Onboarding documentaion and suggest additions - DONE
 11) Schedule meeting with Paul -
 12) Schedule meeting with John -
 15) Check Trello for project ideas -	
