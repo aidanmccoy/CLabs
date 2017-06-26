@@ -1,3 +1,5 @@
+## ToDo List for Aidan McCoy
+
 1) Set up dev enviornment - DONE
 2) Clone project and set up dev branch - DONE
 3) Build and run plugins locally - DONE 
