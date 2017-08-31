@@ -1,6 +1,0 @@
-eclipse.preferences.version=1
-environment/project/com.bosch.cds.xdk.toolchain.1689490206/XDK_FOTA_ENABLED_BOOTLOADER/delimiter=;
-environment/project/com.bosch.cds.xdk.toolchain.1689490206/XDK_FOTA_ENABLED_BOOTLOADER/operation=append
-environment/project/com.bosch.cds.xdk.toolchain.1689490206/XDK_FOTA_ENABLED_BOOTLOADER/value=0
-environment/project/com.bosch.cds.xdk.toolchain.1689490206/append=true
-environment/project/com.bosch.cds.xdk.toolchain.1689490206/appendContributed=true

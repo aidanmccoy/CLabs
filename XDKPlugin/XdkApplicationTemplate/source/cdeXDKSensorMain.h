@@ -21,12 +21,12 @@
 
 /* local type and macro definitions */
 
-#define CONNECT_TIME_INTERVAL           UINT32_C(10000)          /**< Macro to represent connect time interval */
+#define CONNECT_TIME_INTERVAL           UINT32_C(300)          /**< Macro to represent connect time interval */
 #define TIMERBLOCKTIME                  UINT32_C(0xffff)        /**< Macro used to define blocktime of a timer*/
 #define TIMER_AUTORELOAD_ON             UINT32_C(1)             /**< Auto reload of timer is enabled*/
 #define ACCEL_RECEIVELENGTH 	      UINT8_C(30)                      /**< Receive length for BLE */
 
-//#define CDE_WATCHDOG 1
+#define CDE_WATCHDOG 1
 #define USE_WDG_WATCHDOG 1
 
 #if CDE_WATCHDOG || USE_WDG_WATCHDOG
